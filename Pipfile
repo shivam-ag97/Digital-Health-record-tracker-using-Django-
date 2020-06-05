@@ -9,5 +9,5 @@ verify_ssl = true
 python_version = "3.5"
 
 [packages]
-django = "==1.10"
+django = "==1.11.29"
 djangorestframework = "*"
